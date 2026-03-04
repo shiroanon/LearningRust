@@ -9,7 +9,7 @@ let my_text: &str = "Hello";  // string
 ```
 ## let is no mutable by default to change you have to use mut
 
-##if-else
+## if-else
 
 ```rust
     let num_1 = 30;
